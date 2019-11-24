@@ -29,7 +29,7 @@ Actually first - I don't accept the premise that I'd have found it by following 
 
 (This is example is a bit simplistic, but I'm less concerned about the bad masking of the exception is, and more concerned with the line invoking the service.)
 
-Anyway, lets just say I found the general place where the error occured. Reading this code - I have no clue what are valid parameters to update the customer's billing info. Actually I don't even know if `customer_id` was valid or not. The error says "Bad Request Param", But what are the params that are bad?
+Anyway, let's just say I found the general place where the error occured. Reading this code - I have no clue what are valid parameters to update the customer's billing info. Actually I don't even know if `customer_id` was valid or not. The error says "Bad Request Param", But what are the params that are bad?
 
 What if the code read as follows?
 
@@ -45,7 +45,7 @@ Now we're specifying `plan` as the params - this gives us way more context. It's
 
 Here, I think the general pattern to avoid is overgeneralization. Generic parameters - passing whole hash/dicts/whatever your language uses  - can make it easier in the future to dynamically add arguments to function calls, but you have to be much more deliberate about what value that adds to the system. I think it's critical to evaluate whether all the parameters are actually generic - do they all have equal weight, do we expect clients to speicify relatively unknown values?
 
-A trickier example of this is search parameters. Let's say you're building out an endpoint to search across multiple facets of a resource. And lets say, for v1, you need to search across 5 different facets of the model - name, date created, creator, state, and a note field. The client will have to pass a fairly detailed set of parameters on how the user wants to filter results across all these parameters. But when searching fails due to an unforseen issue, it's much harder to debug
+A trickier example of this is search parameters. Let's say you're building out an endpoint to search across multiple facets of a resource. And let's say, for v1, you need to search across 5 different facets of the model - name, date created, creator, state, and a note field. The client will have to pass a fairly detailed set of parameters on how the user wants to filter results across all these parameters. But when searching fails due to an unforseen issue, it's much harder to debug
 
 ```
 def search(where_clauses)
