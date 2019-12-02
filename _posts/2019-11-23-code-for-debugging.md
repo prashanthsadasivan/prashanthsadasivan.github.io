@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code for Debugging pt 1 - pt 1
+title: Code for Debugging - pt 1
 ---
 
 There are tons of posts on the internet about how to write code. There are blogs emphasizing readability when writing code. There are plenty of essays, even books about how to write code that is easy to extend and add functionality. While I think emphasizing readability and adding functionality are important qualities of writing scalable code, I think there's not as much stuff out there about how to write code that's easy to debug. I'm hoping to write more of these, but here's one lesson I've learned on making code easier to untangle and debug.
