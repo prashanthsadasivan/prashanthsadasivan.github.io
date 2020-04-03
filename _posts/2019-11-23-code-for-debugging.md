@@ -17,7 +17,7 @@ What steps are you going to take in order to debug this report? Here's some idea
 
 I think all of these approaches are pretty valid. Let's say, after tracing steps 2 or 3, you find the error is probably getting thrown from the following set of lines
 
-```
+```ruby
 def update_customer_billing(params)
   service.update_billing(customer_id, params)
 rescue BillingError => e
@@ -33,7 +33,7 @@ Anyway, let's just say I found the general place where the error occured. Readin
 
 What if the code read as follows?
 
-```
+```ruby
 def update_customer_billing(params)
   service.update_billing(customer_id, plan: params.plan)
 rescue BillingError => e
@@ -47,7 +47,7 @@ Here, I think the general pattern to avoid is overgeneralization. Generic parame
 
 A trickier example of this is search parameters. Let's say you're building out an endpoint to search across multiple facets of a resource. And let's say, for v1, you need to search across 5 different facets of the model - name, date created, creator, state, and a note field. The client will have to pass a fairly detailed set of parameters on how the user wants to filter results across all these parameters. But when searching fails due to an unforseen issue, it's much harder to debug
 
-```
+```ruby
 def search(where_clauses)
   Model.where(where_clauses)
 end
@@ -55,7 +55,7 @@ end
 
 than it is to debug
 
-```
+```ruby
 def search(name_filter, created_at_filter, creator_filter, state_filter, note_filter)
   Model.where(
     name: name_filter,
