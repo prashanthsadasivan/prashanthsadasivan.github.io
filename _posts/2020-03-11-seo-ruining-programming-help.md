@@ -7,13 +7,21 @@ When I'm learning a new language, I tend to take a very dumb approach (and I don
 
 For example, looking at the results on Google for ['python iterate over dict'](https://www.google.com/search?hl=en&q=python%20iterate%20over%20dictionary), I see the following results
 
-| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+| ![google results](/images/google_python_dict_results.png) | 
 |:--:| 
-| *Space* |
+| *Seems reasonable* |
 
 Notice that StackOverflow is the third response. I am not sure what realpython.com is, but clicking on that [link](https://realpython.com/iterate-through-dictionary-python/) shows the following page
 
+| ![google results](/images/real_python_image_1.png) | 
+|:--:| 
+| *a whole lot of nothing* |
+
 Notice that there's literally no content visible. Lets scroll down one page
+
+| ![google results](/images/real_python_TOC.png) | 
+|:--:| 
+| *...so...much...nonsense* |
 
 Hmm still no content. Well there's a table of contents, but no actual content. Scrolling down to the content, it goes on and on and on and on about why dictionaries are important, what you can use dictionaries for, what are valid keys for dictionaries... The title of the post is quite literally 'How to iterate through a dictionary in python', but it takes NINE PAGE DOWN keystrokes just to get to the _section_ called 'the basics'.
 
