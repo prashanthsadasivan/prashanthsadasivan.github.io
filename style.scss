@@ -83,7 +83,7 @@ ul, ol {
 }
 
 ul {
-  list-style-type: disc;
+  list-style-type: circle;
 }
 
 ol {
@@ -281,6 +281,10 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.ingredients {
+  font-size: 15px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
