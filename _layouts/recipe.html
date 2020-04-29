@@ -5,6 +5,7 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
   <div class="ingredients">
+    <h2> Ingredients </h2>
     <ul>
     {% for ingredient in page.ingredients %}
     <li> {{ ingredient }} </li>
@@ -13,6 +14,7 @@ layout: default
   </div>
 
   <div class="entry">
+    <h2> Steps </h2>
     {{ content }}
   </div>
 
