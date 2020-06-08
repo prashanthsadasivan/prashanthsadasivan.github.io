@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Pasta e Ceci
+title: 🍳 Bon Appétit's Pasta e Ceci
 ingredients:
   - Can of Chickpeas
   - Can of whole tomatoes
