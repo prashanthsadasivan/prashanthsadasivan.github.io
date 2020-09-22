@@ -1,7 +1,6 @@
 ---
 layout: post
-published: false
-title: Test Post
+title: Test Post 2
 ---
 
-This is a test post for private thoughts
+This is a test post for thoughts
