@@ -1,6 +1,22 @@
 ---
 layout: post
-title: Test Post 2
+published: false
+title: Blocked, Stuck, Why, Downer Ending
 ---
 
-This is a test post for thoughts
+This is more of a journal post than a real blog post. I've made set it to `published: false` for two reasons: for one, I don't care to edit this too much, in the hopes of being more honest; the other reason is that I hope to share my blog out at _some_ point, and putting out a downer post like this just seems like bad personal branding. Now I recognize that because I'm using jekyll now, it'll appear in a public github repo, but at least I can stick my head in the sand and worry less about it actually being seen by other people. I am also hoping that expressing this will help me move forward from here. But I truly don't know for sure.
+
+I've been stuck for weeks, if not months or years. I'm so sad, upset, annoyed and frustrated by it. Well am I sad about it? I feel so dispassionate about almost everything related to programming and work. It started as just general un-productivity here and there, and a general feeling of disconnectedness with specific tasks or goals at work, but has metastasize into an existential career threat. I want to say that I can't focus, but I can. It's just hard. and it feels like it's getting harder. harder and harder each day. What's the point of building these products and services? Does it really matter?
+
+I do love the novelty of the product i work on. I mean it's fucking mind blowing how successful it is. I feel like I am actually working on something that forces me to learn. but it's so hard to round the edges on this bleeding edge product. eking out each little tiny win, but at the cost of splinters and papercuts.
+
+outside of work I just can't think of anything related to building my skills anymore. I was close with riak core, but so disappointed in the framework it actually is. and now I just can't think of anything worth building. Or even if I can, what's the point? having to do marketing is so daunting, _I can't even._ Do I make my own custom email address? ugh is heroku really the best I can do without switching to something that forces me into a specific languages? shouldn't i just do javascript? do i really need to pay for TWO digital ocean droplets? holy crap if i ever made any money on something i'd need to figure out taxes. what's the point? So much complexity to deal with. fuck updating dependencies.
+
+But my job is so easy compared to actually hard jobs. I listen to lots of people who have hard jobs and I think _why the fuck can't I just get my shit done?_ Hell, what the fuck is the shit i need to get done? I'm STUCK. I'm literally writing this at 11:37PM and my wife is at the freaking hospital getting her shit done while interviewing at the top fellowship programs in her career asperations. I can't even figure out _what_ i'm supposed to be working on.
+
+I know that all of this stems from a lack of self compassion, some problems with managing ADHD, and imposter syndrome... But I was hoping for a moment where, thanks to me acknowledging it, it could melt away. And it does at times. I keep a calendar, I have a whiteboard where I write daily tasks. But I struggle to come up with any ideas to work on outside of work, or really anything related to programming or tech outside of work. It frustrates me because I used to have so many ideas that I couldn't even finish one before jumping to the next. my home directory is cluttered with ideas that I've had. I actually don't care too much that none of them are finished - many are just thought excerices, [home cooked meals](https://www.robinsloan.com/notes/home-cooked-app/). but I haven't cooked a home cooked meal in... at least 6 months, if not years. I don't remember when I picked up nerves for my home dashboard that's now busted due to nerves + scenic being totally busted.
+
+I do other things outside of programming, but does that actually help me? I love cooking actual food - but the dread i feel because I haven't leveled up in my career is making me feel guilty. it's way more fun to make a caramellized onion stock, or combine components into a dish no one has ever made before. but it also feels like i'm avoiding the fact that i haven't build my own anything in forever (in tech world). Is it avoidance? or is it burnout? I don't work that hard, how can i be burnt out? I love elixir. but i hate it to. I love vue, but i hate it too. I love programming, and I don't hate it, but I don't know why I love it. and not knowing why is making me question if i actually love it, or do i just hate it?
+
+programming is stressful. bugs suck. but it's also the most creative i've ever felt. and I just have not been creative in so long that I don't know how to exercise that muscle anymore. 
+
