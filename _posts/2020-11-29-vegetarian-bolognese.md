@@ -17,6 +17,8 @@ ingredients:
   - 1 tsp red pepper flakes
   - 1 bay leaf
 ---
+A simple mushroom based bolognese, with lots of depth.
+
 1. Toast fennel and pepper flakes until fragrant. Add half of the toasted spices with half the mushrooms and pulse in a food processor. Repeat with the second half.
 2. Add some oil from the garlic confit or olive oil to a large pot or dutch oven, and add the mushrooms. Fry off until most of the liquid is cooked out. Add oil when things look a bit too dry.
 3. Add the onions, carrots, cook until softened.
