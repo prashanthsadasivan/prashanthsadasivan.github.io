@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm Prashanth, welcome to my site. I try to blog about a bunch of things, but go through large gaps of time not writing anything. I also use this site to keep recipe notes of things I've cooked in the past
+I'm Prashanth, welcome to my site. . I try to blog about a bunch of things, but go through large gaps of time not writing anything. I also use this site to keep recipe notes of things I've cooked in the past.
+
+Opinions are my own and don't reflect those of my employer
 #### Who am I?
 
 I'm... an engineer? Engineering Manager? Truthfully I don't really like to say I'm an X or a Y title or job. I love to build things, but more generally I like to understand problems, and hopefully solve them – whether they're business, technical, product, strategy or whatever. 
