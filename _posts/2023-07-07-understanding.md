@@ -11,7 +11,7 @@ Now, when I'm trying to make sure I understand a problem or an ask from someone,
 When Dropbox [launched on HN](https://news.ycombinator.com/item?id=8863), the top comment is well known as an iconic HN forum response. The comment has a bit worse reputation for 'not getting it' than the original text of the comment, but I think it shows the perils of having a binary understanding of a multi-dimensional problem. The comment's main issues with Dropbox are
 
 1. This is already solvable using FTP + Version Control
-2. The solution is also distributed
+2. The solution is also distributed to end users by default
 3. Network file syncing doesn't work for a lot of cases which is why you can't replace a USB drive.
 
 This is a great example of understanding the problem _along a specific dimension_. It's actually a _very_ insightful comment - existing solutions that are _already distributed_ to end users is a very difficult dynamic to overcome (just ask Slack about the power of distribution as a competitor to M$FT Teams). There are kernels of serious questions embedded in this comment, and the person raising these questions is at least somewhat well informed about solutions in the space of file syncing. The point about USB drives is also very sharp - at the time, cellular data was definitely not widely accessible, and WiFi was (more of) a crapshoot. If I were thinking about whether the commenter has a working understanding of the problem space in file syncing, I'd lean towards "Yeah" if forced to pick between Y/N.
