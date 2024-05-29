@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Running LLaVA on iOS - Challenges and Learnings from running an LLM on device
+title: Running LLaVA on iOS With llama.cpp and TinyLlama
 ---
 
 I got [LLaVA](https://github.com/haotian-liu/LLaVA/tree/main) to run on iOS by re-running training using TinyLlama as the base model, and llama.cpp for inference. The UI is janky, but I learned a lot getting it to run on device. While there are a lot of projects that run various LLMs on mobile, I think there are only a few that allow images as an input (and I think there weren't any when I started on this project). Check it out on [GitHub](https://github.com/prashanthsadasivan/llava-ios). A huge shout out to the author of the llava example in the llama.cpp project, as well as the author of the llama.swiftui (and of course, llama.cpp in general).
