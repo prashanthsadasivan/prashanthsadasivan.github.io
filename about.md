@@ -9,10 +9,9 @@ I'm Prashanth, welcome to my site. . I try to blog about a bunch of things, but 
 Opinions are my own and don't reflect those of my employer
 #### Who am I?
 
-I'm... an engineer? Engineering Manager? Truthfully I don't really like to say I'm an X or a Y title or job. I love to build things, but more generally I like to understand problems, and hopefully solve them – whether they're business, technical, product, strategy or whatever. 
+I'm... an engineer? Previous Manager? Truthfully I don't really like to say I'm an X or a Y title or job. I love to build things, but more generally I like to understand problems, and hopefully solve them – whether they're business, technical, product, strategy or whatever. 
 
-
-I'm currently working at FullStory since late 2019, focused mostly on our mobile offering - currently managing a team, and also doing some engineering/coding/IC work. 
+I'm currently working at FullStory since late 2019, focused mostly on our mobile offering - previously managing a team, but now back to doing  engineering/coding/IC work. 
 
 I've been interested in startups for the last 12 years or so, and working at startups for the last 9. 
 
@@ -31,5 +30,4 @@ A bit of an inside joke, it's a self-bestowed title I gave myself. I became know
 (I just want to make it clear that it's a joke title! Please don't read it like I think very highly of myself that I needed a title, or anything like that)
 
 ### Contact me
-TODO
-[email@domain.com](mailto:email@domain.com)
+[yo@prashanth.world](mailto:yo@prashanth.world)
