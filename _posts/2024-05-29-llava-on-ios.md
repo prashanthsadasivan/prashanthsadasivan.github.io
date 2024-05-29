@@ -3,14 +3,18 @@ layout: post
 title: Running LLaVA on iOS With llama.cpp and TinyLlama
 ---
 
-I got [LLaVA](https://github.com/haotian-liu/LLaVA/tree/main) to run on iOS by re-running training using [TinyLlama](https://github.com/jzhang38/TinyLlama) the base model and [llama.cpp](https://github.com/ggerganov/llama.cpp) for inference. The UI is janky, but I learned a lot getting it to run on device. While there are a lot of projects that run various LLMs on mobile, I think there are only a few that allow images as an input (and I think there weren't any when I started on this project). Check it out on [GitHub](https://github.com/prashanthsadasivan/llava-ios). A huge shout out to the author of the llava example in the llama.cpp project, as well as the author of the llama.swiftui (and of course, llama.cpp in general).
+I got [LLaVA](https://github.com/haotian-liu/LLaVA/tree/main) to run on iOS by re-running training using [TinyLlama](https://github.com/jzhang38/TinyLlama) as the base model and [llama.cpp](https://github.com/ggerganov/llama.cpp) for inference. The UI is janky, but I learned a lot getting it to run on device. While there are a lot of projects that run various LLMs on mobile, I think there are only a few that allow images as an input (and I think there weren't any when I started on this project). Check it out on [GitHub](https://github.com/prashanthsadasivan/llava-ios). A huge shout out to the author of the llava example in the llama.cpp project, as well as the author of the llama.swiftui (and of course, llama.cpp in general).
 
 Before I started this project, I had very little practical knowledge of how to implement inference, or incorporate a gguf model into a project. I had some idea about the theoretical workings of LLMs, but never did any training or implemented inference directly. Now, I feel pretty confident in my understanding of how Vision enabled LLMs are implemented, and how to run a `gguf` model on iPhone. 
+
+# Motivation
+
+LLaVA is a "multi-modal" vision + text large language model architecture that connects images with text for the purposes of answering questions about an image. Originally, I was inspired by the Meta Ray Ban glasses and the AI capabilities. I don't own them, so I wanted to simulate what could be possible with an AI that has image capabilities built in. Additionally, I felt like all the open source vision + language models all _don't_ really integrate on mobile, which leads to a really disjointed process. You gotta find the file, and manually upload it on a laptop/desktop. One of the many benefits to mobile apps is that the camera is built right in. You could even tie in things like GPS and other pieces of metadata into the prompt. With these ideas[^1] in mind I started trying to get llava to work on my device. 
 
 # How I got it working
 
 ## Copy Pasta till I can't no more
-LLaVA is a "multi-modal" vision + text large language model architecture that connects images with text for the purposes of answering questions about an image. Initially, I attempted to run llava v1.5 (the 7B model) directly on iOS by copy pasting various functions from the [llava example](https://github.com/ggerganov/llama.cpp/tree/master/examples/llava) in llama.cpp, and I managed to get it to work! But unfortunately the size of the smallest available model was too large to run on my iPhone 15 pro consistently, and crashed more than half of the time. I spent a little bit of time trying to see if there were any smaller llava models, but couldn't find any. 
+Initially, I attempted to run llava v1.5 (the 7B model) directly on iOS by copy pasting various functions from the [llava example](https://github.com/ggerganov/llama.cpp/tree/master/examples/llava) in llama.cpp, and I managed to get it to work! But unfortunately the size of the smallest available model was too large to run on my iPhone 15 pro consistently, and crashed more than half of the time. I spent a little bit of time trying to see if there were any smaller llava models, but couldn't find any. 
 
 ## Figuring out how to make the model smaller
 
@@ -102,3 +106,4 @@ I don't have a lot to synthesize here, but my takeaways in no particular order:
 * Small models train faster than you think
 * A huge shoutout to all models that actually publish their datasets and provide scripts to integrate them to reproduce models!
 
+[^1] Sure, you could just use ChatGPT's exceptional mobile app, but that's not very fun.
