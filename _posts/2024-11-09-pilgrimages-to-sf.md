@@ -1,0 +1,19 @@
+---
+layout: post
+title: Pilgrimages to SF and the valley
+---
+I was listening to the most recent episode of [Acquired](https://www.acquired.fm/episodes/meta) about the founding story of Facebook/Meta, where they discussed a trip that Mark Zuckerberg took to Silicon Valley during the Christmas break just before he started writing the first code for Facebook. David (the podcast host) describes it briefly as
+
+>...he had actually come out to Silicon Valley, to the Bay Area to hang out with some friends out here, and seen the physical embodiment of all these great tech companies—Yahoo, early Google, et cetera, drove by them all. He comes back and he’s extra, extra motivated. He’s like, you know? This digital face book idea, I think this is something that a lot of people want. I bet I can code this up in a week and just launch it.
+
+It brought up some core memories of my first few trips to San Francisco and the Bay after I became much more interested in startups. In 2012, I was interning at Amazon, and a few friends from Michigan who were also interning at Amazon/Microsoft and I had decided to participate in a hackathon called AngelHack. It was structured as a two part competition, starting with a regional round, followed up with a pitch competition hosted in the bay for the top two projects in each region. We managed to get 2nd place by building a peak 2012 era photo sharing mobile first app called Storybook, and were flown out a few weeks later.
+
+Seeing the billboards and buildings with logos of startups and tech companies along the highway felt like a whole different world compared to Seattle. 
+
+They had arranged for us to see the Klout (remember Klout? ah gameification...) office. On a random Friday at 4pm, I remember they had dimmed the lights, turned on some laser lights and had a DJ with bartenders serving stiff drinks to everyone there. I remember thinking how funny it was that some engineer was just coding away with his headphones on just a few yards away. This was not an unusual scene, they had this party every week from what I remember. We were not at Amazon anymore.
+
+The people involved in the hackathon were all excited to build the next big thing. "Curation" was a huge trend then - most pitches in the competition that were building consumer social network / apps all mentioned that term. Mobile apps were the future. I think I had first downloaded and used a ride sharing app then called Sidecar (Uber was just black cars back then if I remember correctly). They had a raffle at the pitch competition for a Google Nexus 7 tablet. When someone had left before claiming their prize, they decided to have an impromptu beer chugging contest, and I "won" (I may not have actually won, but i made the biggest commotion about winning and the "judge" saw me first).
+
+I visited a few more times within the next 1.5-2 years, and each time I came away really excited to build things. But after a certain point, I stopped getting that same feeling that there's something special about this place. Fewer and fewer companies were trying to build consumer facing products or services, and more became vertical enterprise SaaS products that just don't look like the next big thing. The venture rounds got larger and larger, and it stopped being about who could build the best product, and more about who could raise the next big round. Or maybe that magic was simply commoditized. Startups were founded in other places, and startup culture was disseminated across non-startups.
+
+Or maybe young programmers still believe they will dent the universe after their first trek to the land of startups.  
