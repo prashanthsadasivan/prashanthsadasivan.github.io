@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fitting out
+title: A squeaky nail, or the wheel that sticks out
 ---
 
 There are two proverbs which describe a similar behavior but result in polar opposite consequences and ultimately have very different morals:
