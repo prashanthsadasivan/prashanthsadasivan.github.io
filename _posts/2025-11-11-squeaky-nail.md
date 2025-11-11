@@ -1,8 +1,7 @@
 ---
 layout: post
-title: The squeaky nail is drowned in grease
+title: Fitting out
 ---
-# Fitting out, or the squeaky nail is drowned in grease
 
 There are two proverbs which describe a similar behavior but result in polar opposite consequences and ultimately have very different morals:
 
