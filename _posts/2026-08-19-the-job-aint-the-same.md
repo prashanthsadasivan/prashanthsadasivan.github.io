@@ -14,7 +14,7 @@ Some things I miss about the old way of doing things:
 
 * Writing a great API that gets used by others. With agents and other tools, there’s not the same social gratitude or recognition of good taste.
 * Writing a great test suite. The agents write tests that are often exhaustive, but not necessarily elegant or designed around testing the core logic.
-* Having a feel for a codebase. It’s not that I don’t have any feel for a codebase, but it’s a lot less familiar. Before, I was either writing the code, or the reviews of code written by humans was a lot easier to empathize with. Now I’m reviewing 10x the files and it’s just harder to feel the code.
+* Having a feel for a codebase. It’s not that I don’t have any feel for a codebase, but it’s a lot less familiar. Before, I was either writing the code myself or reviewing code written by humans, and it was much easier to connect with the code and feel what it conveyed. Now I’m reviewing 10x the files and it’s just harder to feel the code.
 * Writing a good pull request description (or reviewing a good PR).  The agents actually kinda suck at this and use overly complex phrasing like “retained an unused reference unnecessarily” instead of “this wasn’t used” etc. but its not as satisfying when everyone uses an agent to review the code too.
 
 I know there are people who would just say, “Don’t use those tools, then. You can just have the agent write things line by line and only accept code you understand.”. Unfortunately I just can’t justify that — I’m still doing things much faster, and likely with fewer bugs or issues.
