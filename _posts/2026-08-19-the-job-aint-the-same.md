@@ -17,7 +17,7 @@ Some things I miss about the old way of doing things:
 * Having a feel for a codebase. It’s not that I don’t have any feel for a codebase, but it’s a lot less familiar. Before, I was either writing the code myself or reviewing code written by humans, and it was much easier to connect with the code and feel what it conveyed. Now I’m reviewing 10x the files and it’s just harder to feel the code.
 * Writing a good pull request description (or reviewing a good PR).  The agents actually kinda suck at this and use overly complex phrasing like “retained an unused reference unnecessarily” instead of “this wasn’t used” etc. but its not as satisfying when everyone uses an agent to review the code too.
 
-I know there are people who would just say, “Don’t use those tools, then. You can just have the agent write things line by line and only accept code you understand.”. Unfortunately I just can’t justify that — I’m still doing things much faster, and likely with fewer bugs or issues.
+I know there are people who would just say, “Don’t use those tools, then. You can just have the agent write things line by line and only accept code you understand.” Unfortunately I just can’t justify that — I’m still doing things much faster, and likely with fewer bugs or issues.
 
 The online discourse is filled with people who are just loving this new way of working. Even extremely talented engineers [write about just kicking off agents overnight and reviewing their output in the morning](https://x.com/mitchellh/status/2087227139154448436?s=20). But the job has changed, the challenges are different, and this kind of work sparks less joy.
 
