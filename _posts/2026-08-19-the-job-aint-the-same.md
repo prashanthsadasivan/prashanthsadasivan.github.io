@@ -19,6 +19,6 @@ Some things I miss about the old way of doing things:
 
 I know there are people who would just say “don’t use those tools then, you can just have the agent write things line by line and only when you understand it”. Unfortunately I just can’t justify that — I’m still doing things much faster, and likely with fewer bugs or issues.
 
-The online discourse is filled with people who are just loving this new way of working. Even extremely talented engineers write about just kicking off agents overnight and reviewing their output in the morning. But the job has changed, the challenges are different, and it sparks less joy.
+The online discourse is filled with people who are just loving this new way of working. Even extremely talented engineers [write about just kicking off agents overnight and reviewing their output in the morning](https://x.com/mitchellh/status/2087227139154448436?s=20). But the job has changed, the challenges are different, and it sparks less joy.
 
 I don’t think that software engineers are obsolete in any way, and I think that Jevons paradox may prove that we will actually need more software engineers. Or at least people who can read and understand code. But the kinds of people who wanted to be software engineers because they enjoyed writing code likely won’t be interested in the field in the future, and there will likely be a big shift in the kinds of talent who want to do this work.
