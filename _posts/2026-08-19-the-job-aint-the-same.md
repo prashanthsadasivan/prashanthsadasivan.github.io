@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: The job ain't quite the same
+title: The job ain’t quite the same
 ---
 
 I’ve had a really fun time using Codex/Claude to build whatever software I want. Early this year, the SaaS-pocalypse drawdown in software stocks was justified by the notion that many of those companies weren’t going to exist because in the near future you could ask Claude for whatever you want and it would make it. I think the valuation drawdown was probably overblown, but I can’t deny that over the last six months I just ask Codex/Claude for some kind of weird software and it makes whatever I ask for.
