@@ -4,7 +4,7 @@ published: false
 title: The job ain’t quite the same
 ---
 
-I’ve had a really fun time using Codex/Claude to build whatever software I want. Early this year, the SaaS-pocalypse drawdown in software stocks was justified by the notion that many of those companies weren’t going to exist because in the near future you could ask Claude for whatever you want and it would make it. I think the valuation drawdown was probably overblown, but I can’t deny that over the last six months I just ask Codex/Claude for some kind of weird software and it makes whatever I ask for.
+I’ve had a really fun time using Codex/Claude to build whatever software I want. Early this year, the SaaS-pocalypse drawdown in software stocks was justified by the notion that many of those companies weren’t going to exist because, in the near future, you could ask Claude to make whatever software you wanted. I think the valuation drawdown was probably overblown, but I can’t deny that over the last six months I just ask Codex/Claude for some kind of weird software and it makes whatever I ask for.
 
 Professionally, though, while I’ve produced more than I could have hoped to without the tools I’m using, I can’t help but feel like it’s all just not quite as satisfying. I’ve achieved a flow state while using these tools to build stuff, and I’ve learned a ton about codebases by asking them how they work, building diagrams, etc., but when it comes to building things, it’s truly just a different feeling.
 
