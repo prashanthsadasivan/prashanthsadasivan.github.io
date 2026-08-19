@@ -8,7 +8,7 @@ I’ve had a really fun time using Codex/Claude to build whatever software I wan
 
 Professionally, though, while I’ve produced more than I could have hoped to without the tools I’m using, I can’t help but feel like it’s all just not quite as satisfying. I’ve achieved a flow state while using these tools to build stuff, and I’ve learned a ton about codebases by asking them how they work, building diagrams, etc., but when it comes to building things, it’s truly just a different feeling.
 
-I’ve done things in two hours what used to take eight, but those two hours are more QA and review than it is the act of creating. And it's hard to feel like a creation made with an agent is truly my own creation, or to have as much pride about what it built as I did when I wrote it.
+I’ve done things in two hours what used to take eight, but those two hours are more QA and review than it is the act of creating. And it's hard to feel like a creation made with an agent is truly my own creation, or to have as much pride about what an agent built as I did when I wrote it.
 
 Some things I miss about the old way of doing things:
 
